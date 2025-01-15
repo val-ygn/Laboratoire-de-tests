@@ -18,11 +18,11 @@ Texte
 
 Ceci est une succession de lignes de code
 
-'''
+```
 Sudo apt install
 sudo nano
 sudo shutdown
-'''
+```
 
 Ceci est un texte en <sub>indice</sub>
 
