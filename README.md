@@ -32,7 +32,7 @@ Ceci est un texte <ins>Souligné</ins>
 
 > Ce texte est une citation
 
-[Lien Hypertexte qui redirige sur la page de contribution](docs/CONTRIBUTING.md)
+[Lien Hypertexte qui redirige sur la page de contribution](blob/main/CONTRIBUTING.md)
 
 - Liste1
 * Liste2
